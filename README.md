@@ -1,2 +1,2 @@
-# MPU6050-
+# MPU6050-filter_and_calculate
 keil5工程项目，包含了3种姿态解算方法的实现和对比
